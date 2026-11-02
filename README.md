@@ -2,7 +2,7 @@
 
 把阅读中遇见的生词，变成可以反复复习的个人词卡。
 
-**项目发起、产品设计与维护：Xu Kevin**  
+**项目发起、产品设计与维护：陈泓旭 Albert**  
 GitHub 账号：AlbertXushizhizangsongzhe  
 项目仓库：https://github.com/AlbertXushizhizangsongzhe/Lexinote  
 开发过程使用 AI 辅助实现。
